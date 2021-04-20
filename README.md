@@ -14,6 +14,7 @@ All [exercises](./exercises) are numbered and live in dedicated directories star
 
 ## Additional Resources
 
+* [CKAD Curriculum; including version](https://github.com/cncf/curriculum)
 * [Certified Kubernetes Application Developer (CKAD) Study Guide](https://learning.oreilly.com/library/view/certified-kubernetes-application/9781492083726/)
 * [LinkedIn Learning: Certified Kubernetes Application Developer (CKAD) Cert Prep: Exam Tips](https://www.linkedin.com/learning/certified-kubernetes-application-developer-ckad-cert-prep-exam-tips)
 * [Blog Post About my Experiences](https://bmuschko.com/blog/ckad-prep/)
